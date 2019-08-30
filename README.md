@@ -1,4 +1,4 @@
-## CS50-MARIO (More)
+## CS50 - Mario (More)
 My work for CS50's Mario (more) assignment.
 
 Program prints out a double half-pyramid of a specified height inputted by user, per the below.
